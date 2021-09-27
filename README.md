@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him/His
 - 👯 I’m looking to collaborate on Education Projects
-- 
+- 📫 How to reach me: @saktibuana on Telegram
+
 <!--
 **saktibuana/saktibuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
