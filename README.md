@@ -1,4 +1,4 @@
-## Assalamu'alaikum, I'm Sakti Buana 👋
+## Assalamu'alaikum, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'> I'm Sakti Buana 👋
 
 ### Greetings 👋
 
