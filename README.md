@@ -59,7 +59,7 @@
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
+![](https://img.shields.io/badge/ngrok-ffffff?style=for-the-badge&logo=ngrok&logoColor=000000)
 <!--
 **saktibuana/saktibuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
