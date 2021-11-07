@@ -13,7 +13,7 @@
 <a href="http://instagram.com/saktibuana">![Instagram](https://img.shields.io/badge/@saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="http://linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)</a>
 <a href="http://twitter.com/saktibuana_">![Twitter](https://img.shields.io/badge/@saktibuana%5F-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="http://wa.me/6285720502217?text=From%20GitHub">![WhatsApp](https://img.shields.io/badge/+6285720502217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://api.whatsapp.com/send/?phone=6285720502217&text=From+GitHub">![WhatsApp](https://img.shields.io/badge/+6285720502217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="http://saktibuana.medium.com">![Medium](https://img.shields.io/badge/@saktibuana-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="http://hashnode.com/@saktibuana">![Hashnode](https://img.shields.io/badge/@saktibuana-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 <a href="http://dev.to/saktibuana">![Dev.to blog](https://img.shields.io/badge/@saktibuana-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
