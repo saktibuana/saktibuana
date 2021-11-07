@@ -3,6 +3,17 @@
 - 👯 I’m looking to collaborate on Education Projects
 - 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
 
+## Find me around the web 🌍
+
+- [Me](https://saktibuana.github.io/)
+- [Instagram](https://www.instagram.com/saktibuana/)
+- [LinkedIn](https://www.linkedin.com/in/saktibuana)
+- [Twitter](https://twitter.com/saktibuana_)
+- [Codepen](https://codepen.io/saktibuana/)
+- [Figma](https://www.figma.com/@saktibuana)
+- [Hashnode](https://hashnode.com/@saktibuana)
+- [Dev.to](https://dev.to/saktibuana)
+ 
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
