@@ -1,12 +1,13 @@
-## Assalau'alaikum, I'm Sakti Buan 👋
+## Assalamu'alaikum, I'm Sakti Buana 👋
 
-### Hi there 👋
+### Greetings 👋
+
 - 🌍 Language: Indonesian (Native), English (Native), Sundanese (Native), Arabic (Basic)
 - 😄 Pronouns: He/Him/His
 - 👯 I’m looking to collaborate on Education Projects
 - 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
 
-## Find me around the web 🌍
+## You may find me around the web 🌍
 
 - [Me](https://saktibuana.github.io/)
 - [Instagram](https://www.instagram.com/saktibuana/)
