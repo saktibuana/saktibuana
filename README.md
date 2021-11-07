@@ -5,7 +5,7 @@
 - 🌍 Language: Indonesian (Native), English (Native), Sundanese (Native), Arabic (Basic)
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on translating @progateid teaching materials into Indonesian
-- 👯 I’m looking to collaborate on Education Projects
+- 👯 I’m always open for collaborate on Education Projects
 - 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
 
 ### You may already found me around the web 🌍
