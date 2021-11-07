@@ -11,10 +11,10 @@
 ### You may already found me around the web 🌍
 
 - [Me](https://saktibuana.github.io/)
-- [Instagram](https://www.instagram.com/saktibuana/)
-- [LinkedIn](https://www.linkedin.com/in/saktibuana)
-- <a href="https://www.linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)</a>
-- [Twitter](https://twitter.com/saktibuana_)
+- <a href="http://instagram.com/saktibuana">![Instagram](https://img.shields.io/badge/saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+- <a href="http://linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)</a>
+- <a href="http://twitter.com/saktibuana_">![Twitter](https://img.shields.io/badge/saktibuana_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+- <a href="http://wa.me/6285720502217?text=From%20GitHub">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 - [Codepen](https://codepen.io/saktibuana/)
 - [Figma](https://www.figma.com/@saktibuana)
 - [Hashnode](https://hashnode.com/@saktibuana)
