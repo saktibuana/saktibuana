@@ -13,7 +13,7 @@
 - [Me](https://saktibuana.github.io/)
 - [Instagram](https://www.instagram.com/saktibuana/)
 - [LinkedIn](https://www.linkedin.com/in/saktibuana)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)
+- <span>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)</span>
 - [Twitter](https://twitter.com/saktibuana_)
 - [Codepen](https://codepen.io/saktibuana/)
 - [Figma](https://www.figma.com/@saktibuana)
