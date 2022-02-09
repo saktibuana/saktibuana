@@ -3,7 +3,7 @@
 
 ### Greetings 👋
 
-- 🌍 Language: Indonesian (Native), English (Native), Sundanese (Native), Arabic (Basic), Japanese (Basic)
+- 🌍 Language: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic)
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
 - 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Rails.
