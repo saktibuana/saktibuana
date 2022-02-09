@@ -1,10 +1,11 @@
-## Assalamu'alaikum, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'> I'm Sakti Buana 🤝
+## Assalamu'alaikum Wa Rohmatullohi Wa Barokatuh, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'> I'm Sakti Buana 🤝
 
 ### Greetings 👋
 
 - 🌍 Language: Indonesian (Native), English (Native), Sundanese (Native), Arabic (Basic)
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
+- 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Rails.
 - 👯 Open for collaborate on Education Projects
 - 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
 
