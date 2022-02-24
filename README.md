@@ -62,6 +62,8 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/ngrok-ffffff?style=for-the-badge&logo=ngrok&logoColor=000000)
 ![](https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000)
+
+**You are allowed to clone this repository to learn some "markdown" or same style of intro, just to get your GitHub profile started.**
 <!--
 **saktibuana/saktibuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
