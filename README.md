@@ -1,5 +1,6 @@
 ## Assalamu'alaikum Wa Rohmatullohi Wa Barokatuh, 
-## Welcome, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'> I'm Sakti Buana 🤝
+## Welcome, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'>
+I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti Buana for short.
 
 ### Greetings 👋
 
