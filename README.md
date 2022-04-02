@@ -13,6 +13,12 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=saktibuana&show_icons=true&theme=nightowl&locale=en" alt="saktibuana" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saktibuana&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="saktibuana" /></p>
 
+### You may support me on:
+👉 [Trakteer](https://trakteer.id/saktibuana/tip?utm_source=github)
+👉 [BuyMeACoffe](https://www.buymeacoffee.com/saktibuana?utm_source=github)
+👉 [Paypal](https://www.paypal.me/saktibuana?utm_source=github)
+👉 [Ko-Fi](https://ko-fi.com/saktibuana)
+
 ### You may already found me around the [web](https://saktibuana.github.io/) 🌍
 <a href="http://t.me/saktibuana">![Telegram](https://img.shields.io/badge/@saktibuana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="http://instagram.com/saktibuana">![Instagram](https://img.shields.io/badge/@saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
