@@ -4,12 +4,12 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 
 ### So, ⤵️👋
 
--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic)
--- 😄 Pronouns: He/Him/His
--- 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
--- 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Rails.
--- 👯 Open for collaborate on Education Projects
--- 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
+- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic)
+- 😄 Pronouns: He/Him/His
+- 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
+- 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Rails.
+- 👯 Open for collaborate on Education Projects
+- 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=saktibuana&show_icons=true&theme=nightowl&locale=en" alt="saktibuana" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saktibuana&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="saktibuana" /></p>
