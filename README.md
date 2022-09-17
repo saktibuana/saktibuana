@@ -2,9 +2,9 @@
 ## Welcome, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'>
 I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti Buana for short.
 
-### So, ⤵️👋
+### <!---So,---> ⤵️👋
 
-<!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) -->
+<!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) --->
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
 - 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
