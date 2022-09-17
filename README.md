@@ -9,13 +9,14 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 - 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
 - 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
 - 👯 Open for collaborate on Education Projects
-- 📫 How to reach me: [@saktibuana](https://t.me/saktibuana)
+- 📫 Best way to reach me is through Telegram : [@saktibuana](https://t.me/saktibuana)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=saktibuana&show_icons=true&theme=nightowl&locale=en" alt="saktibuana" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saktibuana&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="saktibuana" /></p>
 
 ### You may support me on these platforms:
 👉 [Trakteer](https://trakteer.id/saktibuana/tip?utm_source=github)
+👉 [Saweria](https://saweria.co/saktibuana/tip?utm_source=github)
 👉 [BuyMeACoffe](https://www.buymeacoffee.com/saktibuana?utm_source=github)
 👉 [Paypal](https://www.paypal.me/saktibuana?utm_source=github)
 👉 [Ko-Fi](https://ko-fi.com/saktibuana)
