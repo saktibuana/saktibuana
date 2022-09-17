@@ -1,8 +1,7 @@
 ## Assalamu'alaikum Wa Rohmatullohi Wa Barokatuh, 
 ## Welcome, <img src='https://visitor-badge.laobi.icu/badge?page_id=saktibuana'>
 I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti Buana for short.
-https://www.youtube.com/channel/UCJqK09rgmUkxfTDNJV3tJww
-<!---### So,---> ⤵️👋
+### ⤵️👋
 
 <!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) --->
 - 😄 Pronouns: He/Him/His
