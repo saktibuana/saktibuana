@@ -5,8 +5,11 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 
 <!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) --->
 - 😄 Pronouns: He/Him/His
-- 🔭 Currently working on adjusting/translating  [@progateid](https://progate.com) teaching materials into Indonesian
-- 🔭 Also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
+- 🔭 Currently working on 
+-- managing product of [@progateid](https://progate.com)
+-- adjusting/translating teaching materials into Indonesian
+-- 🔭 also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
+-- instructor on digital talent scholarship, both fresh graduate academy and professional academy 
 - 👯 Open for collaborate on Education Projects
 - 📫 Best way to reach me is through Telegram [@saktibuana](https://t.me/saktibuana)
 - 📺 [Youtube](https://www.youtube.com/channel/UCJqK09rgmUkxfTDNJV3tJww)
