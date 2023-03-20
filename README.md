@@ -12,23 +12,23 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
   - 🔭 also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
 - - instructor on digital talent scholarship, both fresh graduate academy and professional academy 
 - 👯 Open for collaborate on Education Projects
-- 📫 Best way to reach me is through Telegram [@saktibuana](https://t.me/saktibuana)
-- 📺 [Youtube](https://www.youtube.com/channel/UCJqK09rgmUkxfTDNJV3tJww)
+- 📫 Best way to reach me is through Telegram [@thesaktibuana](https://t.me/thesaktibuana)
+- 📺 [Youtube](https://www.youtube.com/@thesaktibuana)
 <p><img src="https://github-readme-stats.vercel.app/api?username=saktibuana&show_icons=true&theme=nightowl&locale=en" alt="saktibuana" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saktibuana&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="saktibuana" /></p>
 
 ### You may support me on these platforms:
-👉 [Trakteer](https://trakteer.id/saktibuana/tip?utm_source=github)
-👉 [Saweria](https://saweria.co/saktibuana/tip?utm_source=github)
+👉 [Trakteer](https://trakteer.id/thesaktibuana/tip?utm_source=github)
+👉 [Saweria](https://saweria.co/thesaktibuana/tip?utm_source=github)
 👉 [BuyMeACoffe](https://www.buymeacoffee.com/saktibuana?utm_source=github)
 👉 [Paypal](https://www.paypal.me/saktibuana?utm_source=github)
 👉 [Ko-Fi](https://ko-fi.com/saktibuana)
 
 ### You may already found me around the [web](https://saktibuana.github.io/) 🌍
-<a href="http://t.me/saktibuana">![Telegram](https://img.shields.io/badge/@saktibuana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="http://instagram.com/saktibuana">![Instagram](https://img.shields.io/badge/@saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="http://linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saktibuana)</a>
-<a href="http://twitter.com/saktibuana_">![Twitter](https://img.shields.io/badge/@saktibuana%5f-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="http://t.me/thesaktibuana">![Telegram](https://img.shields.io/badge/@saktibuana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="http://instagram.com/thesaktibuana">![Instagram](https://img.shields.io/badge/@saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="http://linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thesaktibuana)</a>
+<a href="http://twitter.com/thesaktibuana">![Twitter](https://img.shields.io/badge/@thesaktibuana%5f-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send/?phone=6285720502217&text=From+GitHub">![WhatsApp](https://img.shields.io/badge/+6285720502217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="http://saktibuana.medium.com">![Medium](https://img.shields.io/badge/@saktibuana-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="http://hashnode.com/@saktibuana">![Hashnode](https://img.shields.io/badge/@saktibuana-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
