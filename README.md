@@ -19,8 +19,8 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 
 ### You may support me on these platforms:
 👉 [Trakteer](https://trakteer.id/thesaktibuana/tip?utm_source=github)
-👉 [Saweria](https://saweria.co/thesaktibuana/tip?utm_source=github)
-👉 [BuyMeACoffe](https://www.buymeacoffee.com/saktibuana?utm_source=github)
+👉 [Saweria](https://saweria.co/thesaktibuana?utm_source=github)
+👉 [BuyMeACoffe](https://www.buymeacoffee.com/thesaktibuana?utm_source=github)
 👉 [Paypal](https://www.paypal.me/saktibuana?utm_source=github)
 👉 [Ko-Fi](https://ko-fi.com/saktibuana)
 
