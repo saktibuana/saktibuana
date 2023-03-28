@@ -26,7 +26,7 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 
 ### You may already found me around the [web](https://saktibuana.github.io/) 🌍
 <a href="http://t.me/thesaktibuana">![Telegram](https://img.shields.io/badge/@saktibuana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="http://instagram.com/thesaktibuana">![Instagram](https://img.shields.io/badge/@saktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="http://instagram.com/thesaktibuana">![Instagram](https://img.shields.io/badge/@thesaktibuana-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="http://linkedin.com/in/saktibuana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thesaktibuana)</a>
 <a href="http://twitter.com/thesaktibuana">![Twitter](https://img.shields.io/badge/@thesaktibuana%5f-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://api.whatsapp.com/send/?phone=6285720502217&text=From+GitHub">![WhatsApp](https://img.shields.io/badge/+6285720502217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
