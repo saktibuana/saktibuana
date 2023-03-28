@@ -11,6 +11,7 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
   - adjusting/translating teaching materials into Indonesian
   - 🔭 also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
 - - instructor on digital talent scholarship, both fresh graduate academy and professional academy 
+- - instructor internal at [@progateid](https://progate.com) 
 - 👯 Open for collaborate on Education Projects
 - 📫 Best way to reach me is through Telegram [@thesaktibuana](https://t.me/thesaktibuana)
 - 📺 [Youtube](https://www.youtube.com/@thesaktibuana)
