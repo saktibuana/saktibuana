@@ -5,8 +5,8 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 
 <!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) --->
 - 😄 Pronouns: He/Him/His
-- 🔭 Currently working on 
-  - managing discord server of [@progateid](https://discord.gg/YwXJgsGEdk)
+- 🔭 Currently working on  
+  - ~~managing discord server of [@progateid](https://discord.gg/YwXJgsGEdk)~~
   - managing product of [@progateid](https://progate.com)
   - adjusting/translating teaching materials into Indonesian
   - 🔭 also being instructor on most of [@progateid](https://progate.com) bootcamps. Such as Ruby on Rails, Javascript, Python, PHP, NodeJS, HTML/CSS.
