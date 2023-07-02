@@ -23,7 +23,7 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 👉 [Saweria](https://saweria.co/thesaktibuana?utm_source=github)
 👉 [BuyMeACoffe](https://www.buymeacoffee.com/thesaktibuana?utm_source=github)
 👉 [Paypal](https://www.paypal.me/saktibuana?utm_source=github)
-👉 [Ko-Fi](https://ko-fi.com/saktibuana)
+👉 [Ko-Fi](https://ko-fi.com/thesaktibuana)
 
 ### You may already found me around the [web](https://saktibuana.github.io/) 🌍
 <a href="http://t.me/thesaktibuana">![Telegram](https://img.shields.io/badge/@thesaktibuana-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
