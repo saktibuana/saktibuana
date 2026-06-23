@@ -6,6 +6,7 @@ I'm Arti Hikmatullah Perbawana Sakti Buana 🤝, and you may just call me Sakti 
 <!--- 🌍 Speaking: Indonesian (Native), Sundanese (Native), English (Native), Arabic (Basic), Japanese (Basic) --->
 - 😄 Pronouns: He/Him/His
 - 🔭 Currently working on  
+  - Secretary of Foundation [T.I.B.Y.A.N.](https://tibyan.or.id) / [At-Tibyan Bandung Quranic School](https://instagram.com/bqsattibyan)
   - ~~managing discord server of [@progateid](https://discord.gg/YwXJgsGEdk)~~
   - managing product of [@progateid](https://progate.com)
   - adjusting/translating teaching materials into Indonesian
